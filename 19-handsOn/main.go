@@ -15,4 +15,6 @@ func main() {
 	} else {
 		fmt.Println("the number is between 201 and 250")
 	}
+	y := rand.Intn(3) // [0,3) 0 is inclusive and 3 is exclucive
+	fmt.Println(y)
 }
