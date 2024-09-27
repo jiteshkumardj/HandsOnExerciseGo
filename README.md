@@ -1,0 +1,9 @@
+->Understanding Control flow
+->If Statement and Comparison Operators 
+->Logical operators
+->statement; statement idiom
+->comma, ok idom
+->switch statement 
+->select statement 
+->loop and nested loop
+->range loops
